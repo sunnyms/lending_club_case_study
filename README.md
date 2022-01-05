@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies Used](#Language-&-technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -33,18 +33,18 @@
 - Python - version 3.7
 - Pandas - version 1.2.4
 - Numpy  - version 1.20.1
-- matplotlib - version 
+- matplotlib - version 1.0.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This is an Group Project 
+- This is a Group Project
 - Group Member : Sunny M Sharma and Govindrao Katture
 
 
 ## Contact
-Created by [@sunnyms and @givindrao ] - feel free to contact me!
+Created by [https://github.com/sunnyms and https://github.com/GRK05] - feel free to contact me!
 
 
 <!-- Optional -->
